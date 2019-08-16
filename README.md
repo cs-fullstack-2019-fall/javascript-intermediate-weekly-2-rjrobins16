@@ -25,7 +25,7 @@ Refer to image. (HINT: Use 0 - however many answers and use a ```Template String
 #### Create 3 or more Question instances via the Question class constructor (1 point).
 Create question instances manually in your JavaScript code. An example of creating a new Question should look something like this (NOTE: Passing in the values for the 3 properties of the Question class to its Constructor):
 
-```let q1 = new Question('How many million miles is Earth from the Sun?',['123', '92', '150'], 1);```
+```let q1 = new Question('How many million miles is Earth from the Sun?',['123', '93', '150'], 1);```
 
 #### Load each question that you make/instantiate into an Available Question List array using any array method you choose to add the Questions as new elements in the array (1 point).
 
