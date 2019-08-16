@@ -47,7 +47,7 @@ Check if the User’s answer is correct and display an alert stating if they wer
 ### Challenges
 * Enhance the solution so that it will let the User keep answering questions until ‘q’ is entered (Bonus: handle any case lower/or upper that may be entered by the User).
 * Track the User’s score. Each time the answer was correct, give them a point. Display the running total of the numbers of questions they got right in the console before or after the question(s).
-* Make sure if the user enters an invalid answer number say "Invalid Answer Number. Please Try Again!", then retry the question. 
+* Make sure if the user enters an invalid answer number say "Invalid Answer Number. Please Try Again!", then retry the question or give them a new one. 
 
 #### Notes
 - It's expected you know how to use git to push and pull your projects. You will not get ANY points if you push your work after 5pm.
