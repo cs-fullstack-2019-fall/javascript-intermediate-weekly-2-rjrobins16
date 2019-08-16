@@ -36,7 +36,7 @@ Your Question class should be able to output the question and the available answ
 let index_of_a_question = Math.floor(Math.random() * available_question_list_array.length);
 ```
 
-#### Use the ‘prompt’ function to ask the User for what they think the correct answer is (1 point). 
+#### Prompt the User to enter the number of what they think the correct answer is (1 point). 
 The user should input the corresponding number of the correct answer displayed in the JavaScript console.
 
 #### Use your Question Class method that checks for a correct answer (1 point).
