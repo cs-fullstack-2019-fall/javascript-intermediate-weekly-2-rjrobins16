@@ -42,6 +42,8 @@ The user should input the corresponding number of the correct answer displayed i
 #### Use your Question Class method that checks for a correct answer (1 point).
 Check if the User’s answer is correct and display an alert stating if they were right or not.
 
+![Sample Response to Incorrect Answer](https://github.com/cs-fullstack-master/javascript-intermediate-weekly-2/blob/master/2019-08-16_101424.png)
+
 ### Challenges
 * Enhance the solution so that it will let the User keep answering questions until ‘q’ is entered (Bonus: handle any case lower/or upper that may be entered by the User).
 * Track the User’s score. Each time the answer was correct, give them a point. Display the running total of the numbers of questions they got right in the console before or after the question(s).
